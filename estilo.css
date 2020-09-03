@@ -1,0 +1,49 @@
+hr{
+	border: 1px solid darkslateblue;
+}
+
+h1{
+	color: darkred;
+}
+
+h3{
+	color: darkblue; /*altera cor do texto...*/
+}
+
+p{
+	color: gray;
+}
+
+body{
+	background-color: lightyellow; /*cor de fundo,pode inserir através de #*/
+	margin-left: 20%; /*margem esquerda*/
+	margin-right: 20%; /*margem direita*/
+	border: 1px solid gray; /*borda*/
+	padding: 10px 10px 10px 10px; /*espaçamento interno*/
+	font-family: sans-serif; /**/
+}
+
+/*cor do link*/
+a:link {
+	color: purple;
+	text-decoration: none;
+}
+
+/*link visitado*/
+a:visited {
+	color: red;
+	text-decoration: none;
+}
+
+/*mouse sobre o link*/
+a:hover {
+	color: orange;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+/*link selecionado*/
+a:active {
+	color: hotpink;
+	text-decoration: none;
+}
