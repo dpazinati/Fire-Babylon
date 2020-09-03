@@ -1,8 +1,18 @@
 <html>
 <head>
     <title>Matheus Cogo</title>
+
+    <style type='text/css'>
+    hr{
+        border: 1px solid darkslateblue;
+
+    }
+    h1{
+       color: darkblue;
+    }
+    </style>
 </head>
 <body>
-    <h1>Matheus Cogos </h1>
+    <h1>Matheus Cogo </h1>
 </body>
 </html> 
